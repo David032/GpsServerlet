@@ -1,0 +1,6 @@
+[project]
+authors = [
+  {name = "David Kelly", email = "davek032@outlook.com"},
+]
+[project]
+description = "A tiny REST api for various i2c GPS modules"
